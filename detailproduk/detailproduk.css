@@ -95,6 +95,7 @@ body {
 .btn-view {
     background-color: #8F9275;
     color: #FEFEFE;
+    width: 100%;
 }
 
 .btn-cart {
@@ -166,3 +167,4 @@ body {
         flex-direction: column;
     }
 }
+
